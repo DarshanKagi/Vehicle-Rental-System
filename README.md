@@ -1,3 +1,4 @@
+Here's a README file for the "Vehicle Rental System" project:
 
 ---
 
@@ -63,7 +64,7 @@ The "Vehicle Rental System" is a Java-based application that allows customers to
 
 ## Screenshots/Media
 
-![Vehicle Rental System Screenshot]([[[https://your-link-to-screenshot.com/screenshot.png](https://github.com/DarshanKagi/Vehicle-Rental-System/blob/main/Output%20Picture.png)](https://github.com/DarshanKagi/Vehicle-Rental-System/blob/main/Output%20Picture.png)](https://github.com/DarshanKagi/Vehicle-Rental-System/blob/main/Output%20Picture.png))
+![Vehicle Rental System Screenshot](![Output Picture](https://github.com/user-attachments/assets/fdb376d2-0d50-459d-970a-b3dd3e2609f3))
 
 ## Future Improvements
 
