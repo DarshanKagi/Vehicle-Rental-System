@@ -1,0 +1,25 @@
+Enter customer name:
+Darshan S Kagi
+Enter vehicle type (1 for Car, 2 for Bike):
+1
+Enter vehicle license plate:
+TS2894A78
+Enter number of days for rental:
+2
+Rental Information:
+Customer: Darshan S Kagi
+Vehicle License Plate: TS2894A78
+Total Cost: $100.0
+
+Enter customer name:
+Darshan S Kagi
+Enter vehicle type (1 for Car, 2 for Bike):
+1
+Enter vehicle license plate:
+TS2894A78
+Enter number of days for rental:
+2
+Rental Information:
+Customer: Darshan S Kagi
+Vehicle License Plate: TS2894A78
+Total Cost: $100.0
