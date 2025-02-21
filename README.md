@@ -63,7 +63,7 @@ The "Vehicle Rental System" is a Java-based application that allows customers to
 
 ## Screenshots/Media
 
-![Output Picture](https://github.com/user-attachments/assets/fdb376d2-0d50-459d-970a-b3dd3e2609f3)
+![Output Picture](https://github.com/DarshanKagi/Vehicle-Rental-System/blob/ae77b060fcdc6703f9f88a6f4b280d87e60dff32/OutputScreen.png)
 
 ## Future Improvements
 
