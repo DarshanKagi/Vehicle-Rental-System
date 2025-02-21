@@ -1,4 +1,3 @@
-
 ---
 
 # Vehicle Rental System
@@ -7,13 +6,14 @@
 
 ## Project Description
 
-The "Vehicle Rental System" is a Java-based application that allows customers to rent vehicles, specifically cars and bikes, for a specified number of days. This project demonstrates the use of object-oriented programming concepts such as Classes, Inheritance, Encapsulation, and Polymorphism.
+The "Vehicle Rental System" is a Java-based application that allows customers to rent vehicles, specifically cars and bikes, for a specified number of days. This project demonstrates the use of object-oriented programming concepts such as Classes, Inheritance, Encapsulation, and Polymorphism. It also includes exception handling to ensure robustness and prevent invalid input.
 
 ## Features
 
 - **Classes and Inheritance:** Implemented with Vehicle, Car, and Bike classes.
 - **Encapsulation:** Managed rental details securely.
 - **Polymorphism:** Different rental rates for cars and bikes.
+- **Exception Handling:** Ensures correct license plate format and input validation.
 - **Interactive Console Interface:** User-friendly input for customer and vehicle details.
 
 ## Table of Contents
@@ -42,7 +42,7 @@ The "Vehicle Rental System" is a Java-based application that allows customers to
    ```
 2. **Navigate to the project directory:**
    ```bash
-   cd Vehicle\ Rental\ System
+   cd Vehicle-Rental-System
    ```
 3. **Compile the Java files:**
    ```bash
@@ -57,7 +57,7 @@ The "Vehicle Rental System" is a Java-based application that allows customers to
 
 1. **Enter customer details:** The application will prompt you to enter the customer's name.
 2. **Select the vehicle type:** Choose between car (1) or bike (2).
-3. **Enter vehicle details:** Input the vehicle's license plate number.
+3. **Enter vehicle details:** Input the vehicle's license plate number (must be exactly 10 characters long).
 4. **Specify the rental duration:** Enter the number of days for the rental.
 5. **View rental information:** The application will display the rental details, including the total cost.
 
@@ -70,6 +70,8 @@ The "Vehicle Rental System" is a Java-based application that allows customers to
 - Add support for additional vehicle types (e.g., trucks, SUVs).
 - Implement a graphical user interface (GUI).
 - Extend rental options with insurance and additional accessories.
+- Introduce a database to store rental records persistently.
+- Implement an online booking system with user authentication.
 
 ## Contributing
 
@@ -94,4 +96,3 @@ Email: darshankagi04@gmail.com
 - [GitHub](https://github.com/DarshanKagi)
 
 ---
-
